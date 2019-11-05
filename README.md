@@ -1,2 +1,13 @@
 # YelpCamp
 Culminating project for Udemy course:The Web Developer Bootcamp
+
+Website url: https://frozen-stream-29990.herokuapp.com/
+
+This website is designed by the course instructor Colt Steele. It is meant as a demonstration of knowledge rather than of design skills. 
+
+Tech used:
+JS Runtime Enviroment: Node
+Web App Framework: Express
+CSS Framework: Bootstrap
+Template Engine: ejs
+Database: Mongodb
