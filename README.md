@@ -1,5 +1,8 @@
 # YelpCamp
-Culminating project for Udemy course:The Web Developer Bootcamp
+Culminating project for Udemy course: "The Web Developer Bootcamp".
+
+Instructor: Colt Steele
+Course url: https://www.udemy.com/course/the-web-developer-bootcamp/
 
 Website url: https://frozen-stream-29990.herokuapp.com/
 
@@ -11,3 +14,5 @@ Web App Framework: Express
 CSS Framework: Bootstrap
 Template Engine: ejs
 Database: Mongodb
+
+Completed in August 2019
