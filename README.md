@@ -1,4 +1,4 @@
-# YelpCamp
+# Ongoing Education
 Culminating project for Udemy course: "The Web Developer Bootcamp".
 
 Instructor: Colt Steele
